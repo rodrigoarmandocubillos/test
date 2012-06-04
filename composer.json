@@ -16,7 +16,10 @@
     },
     "extra": {
         "branch-alias": {
-            "7.14": "7.14"
+            "dev-master": "7.14"
+        },
+        "testing-alias": {
+            "testing": "testing"
         }
     }
 }
