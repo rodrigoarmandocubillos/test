@@ -1,0 +1,17 @@
+{
+    "name": "test/drupal",
+    "type": "library",
+    "description": "The Drupal CMS framework",
+    "keywords": ["framework"],
+    "homepage": "http://drupal.org",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Drupal Community",
+            "homepage": "http://drupal.org/community"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.4"
+    },
+}
