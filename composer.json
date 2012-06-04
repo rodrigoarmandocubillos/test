@@ -13,10 +13,5 @@
     ],
     "require": {
         "php": ">=5.2.4"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "dev-master"
-        }
     }
 }
